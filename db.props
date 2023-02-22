@@ -1,0 +1,7 @@
+#Database Properties File
+#Thu Jun 02 14:17:02 AEST 2022
+schema=Maze1
+password=abc@123
+url=jdbc\:postgresql\://localhost/postgres
+table=maze_data_1
+username=postgres
